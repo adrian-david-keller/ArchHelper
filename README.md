@@ -13,7 +13,7 @@ From initial Prompt type the following commands:
 pacman -Sy git
 git clone https://github.com/adrian-david-keller/ArchHelper
 cd ArchHelper
-./archtitus.sh
+./archhelper.sh
 ```
 
 
